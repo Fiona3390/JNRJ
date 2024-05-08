@@ -33,7 +33,7 @@ I have a variety of skills that I can bring to the table, including:
 
 I'm always working on new projects, including:
 
-* [Watching movies,Swimming,out-fit]
+* [Watching movies,Swimming,Looking out-fit]
 
 ## Contact Me
 
