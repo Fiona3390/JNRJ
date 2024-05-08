@@ -17,17 +17,17 @@ Date: 2024-05-08
 
 # Welcome to My Personal Website
 
-Hi there! I'm 蔡熠飞, a [your profession or title] based in [your location]. I'm passionate about [your interests] and I'm always eager to learn new things.
+Hi there! I'm 蔡熠飞, in our team I'm responsible for research and summary. I'm passionate about the thing that I interested in and I'm always eager to learn new things.
 
 ## About Me
 
-I'm a [brief description of yourself or your work]. I have a strong interest in [your interests] and I'm always looking for ways to [your goals]. I'm also a big fan of [your hobbies or passions].
+I'm a introvert person.My MBTI is INFJ. I have a strong interest in fasion and I'm always looking for ways to make myself perfect. I'm also a big fan of K-POP.
 
 ## My Skills
 
 I have a variety of skills that I can bring to the table, including:
 
-* [List of your skills]
+* [Swimming;Drawing]
 
 ## My Hobbies
 
