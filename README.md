@@ -1,21 +1,22 @@
 # JNRJ
 ---
-title: My Personal Website
+My Personal Website
+---
 
 
-author: [蔡熠飞]
+Name: [蔡熠飞]
 
 
 email: [fionacyfnct@gmail.com](mailto:your-email@example.com)
 ---
 
 
-date: 2024-05-08
+Date: 2024-05-08
 ---
 
 # Welcome to My Personal Website
 
-Hi there! I'm [Your Name], a [your profession or title] based in [your location]. I'm passionate about [your interests] and I'm always eager to learn new things.
+Hi there! I'm 蔡熠飞, a [your profession or title] based in [your location]. I'm passionate about [your interests] and I'm always eager to learn new things.
 
 ## About Me
 
