@@ -29,19 +29,11 @@ I have a variety of skills that I can bring to the table, including:
 
 * [List of your skills]
 
-## My Experience
-
-I have a background in [your field or industry] and I have experience in [list of your experience]. I'm also proficient in [list of your software or tools].
-
-## My Projects
+## My Hobbies
 
 I'm always working on new projects, including:
 
 * [List of your projects]
-
-## My Portfolio
-
-You can view my portfolio of work at [link to your portfolio website].
 
 ## Contact Me
 
