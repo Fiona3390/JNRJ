@@ -5,9 +5,10 @@ My Personal Website
 
 
 Name: [蔡熠飞]
+---
 
 
-email: [fionacyfnct@gmail.com](mailto:your-email@example.com)
+Email: [fionacyfnct@gmail.com](mailto:your-email@example.com)
 ---
 
 
