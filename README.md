@@ -21,31 +21,28 @@ Hi there! I'm 蔡熠飞, in our team I'm responsible for research and summary. I
 
 ## About Me
 
-I'm a introvert person.My MBTI is INFJ. I have a strong interest in fasion and I'm always looking for ways to make myself perfect. I'm also a big fan of K-POP.
+I'm an introvert person.My MBTI is INFJ. I have a strong interest in fasion and I'm always looking for ways to make myself perfect. I'm also a big fan of K-POP.
 
 ## My Skills
 
 I have a variety of skills that I can bring to the table, including:
 
-* [Swimming;Drawing]
+* [Swimming,Drawing]
 
 ## My Hobbies
 
 I'm always working on new projects, including:
 
-* [List of your projects]
+* [Watching movies,Swimming,out-fit]
 
 ## Contact Me
 
-If you're interested in learning more about me or my work, please feel free to contact me at [your email address].
+If you're interested in learning more about me or my work, please feel free to contact me at WeChat[rjjn7230121].
 
 ## Social Media
 
 You can also connect with me on social media:
 
-* [Link to your LinkedIn profile]
-* [Link to your Twitter profile]
-* [Link to your Instagram profile]
-* [Link to any other social media profiles you have]
+* [https://www.instagram.com/lefiy_ia23?igsh=MThqOWtwY3pkNWZobw%3D%3D&utm_source=qr]
 
 ## Thank you for visiting my personal website!
